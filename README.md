@@ -8,6 +8,5 @@ Let’s connect and build something great! 💻✨
 - 🔭 I’m currently working on: a C# project and AWS review
 - 🌱 I’m currently learning: C#
 - 🤔 I’m looking for help with: expanding my coding and AWS Skills 
-- 💬 Ask me about: coding and cloud solutions
-- 📫 How to reach me: [your email or LinkedIn link]
+- 📫 How to reach me: roseann.learning@gmail.com
 - ⚡ Fun fact: I’m a part-time receptionist at a vet hospital!
